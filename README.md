@@ -37,7 +37,7 @@ Diseño y sostengo en producción el backend de los productos de Genesis Code St
 
 ### Productos propios
 
-Desarrollados junto a mi compañero Lautaro Cuello. **Código privado:** se puede probar la app, pero no es de código abierto.
+Desarrollados junto a mi compañero Lautaro Cuello.
 
 [**Genesis Stock**](https://stock.genesiscodestudio.com/) · **En producción**
 Sistema de stock y punto de venta para comercios. Backend multi-tenant con Row-Level Security, capa de servicios separada del enrutamiento y auth real vía Supabase.
@@ -49,7 +49,7 @@ App de delivery para el Valle de Uco, con paneles para cliente, local, repartido
 
 ### Proyectos para clientes
 
-Hechos con [Genesis Code Studio](https://genesiscodestudio.com/). El código es de cada cliente.
+Hechos con [Genesis Code Studio](https://genesiscodestudio.com/).
 
 [**Santa Burger**](https://santaburger.com.ar/)
 Sistema de impresión automática de tickets de cocina en tiempo real (Supabase Realtime → impresora térmica) y migración/administración del VPS de producción.
